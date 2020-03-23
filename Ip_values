@@ -1,0 +1,26 @@
+IP decimal and binary:
+192.168.56.1
+11000000.10101000.00111000.00000001
+Mask decimal and binary:
+255.255.255.0
+11111111.11111111.11111111.00000000
+Subnet address decimal and binary:
+192.168.56.0
+11000000.10101000.00111000.00000000
+First host address decimal and binary:
+192.168.56.1
+11000000.10101000.00111000.00000001
+Broadcast address decimal and binary:
+192.168.56.255
+11000000.10101000.00111000.11111111
+Last host address decimal and binary:
+192.168.56.254
+11000000.10101000.00111000.11111110
+Max host amount:
+254
+Class type:
+C
+Is address public or private?
+Address is private.
+Is address correct?
+Address is correct.
